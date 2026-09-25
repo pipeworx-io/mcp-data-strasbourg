@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-strasbourg",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Strasbourg Open Data (data.strasbourg.eu) — OpenDataSoft MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-a3007612f5f722376cc3915b870a51611b5fb1d7ef1ce14386cb6928ef8776ed",
-    "sourceCommit": "839ab210d969ef7f822cd747ea516f6bb49e9231"
+    "sourceHash": "v1-b67d8d3655b03b2e5a8853ca1e5ab968d73c8937f2dc9befe730fd683e1bac3b",
+    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
   }
 }
