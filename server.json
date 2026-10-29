@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-strasbourg",
   "title": "Data Strasbourg",
   "description": "Strasbourg Open Data (data.strasbourg.eu) — OpenDataSoft MCP.",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/data-strasbourg",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-strasbourg",
